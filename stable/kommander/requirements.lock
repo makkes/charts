@@ -13,12 +13,12 @@ dependencies:
   version: 0.1.0
 - name: kommander-ui
   repository: https://mesosphere.github.io/kommander/charts
-  version: 3.106.2
+  version: 3.111.0
 - name: kubecost
   repository: https://mesosphere.github.io/charts/stable
   version: 0.1.6
 - name: grafana
   repository: https://kubernetes-charts.storage.googleapis.com
   version: 4.6.3
-digest: sha256:6d08378f432c4fc49f1ba7c2eea459982e78d5e8cd505642440f18f1a96a8167
-generated: "2020-06-16T11:04:19.077893-07:00"
+digest: sha256:a699be937e8a9dfdf3a00569fb5335778ca56dd282415a82f6da1cd2352d0199
+generated: "2020-06-17T12:26:37.117962+02:00"
